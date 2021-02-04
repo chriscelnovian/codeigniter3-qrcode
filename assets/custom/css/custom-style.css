@@ -1,0 +1,17 @@
+button.close {
+    outline: none;
+}
+
+.border {
+    border: 2px solid #AAA!important;
+    border-radius: 5px;
+}
+
+.content-page {
+    width: 85%;
+    margin: 50px auto;
+}
+
+.content-header {
+    margin-bottom: 20px;
+}
