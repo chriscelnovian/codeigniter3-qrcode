@@ -15,3 +15,27 @@ button.close {
 .content-header {
     margin-bottom: 20px;
 }
+
+.content-title {
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+.content-img {
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table-order {
+    width: 10;
+}
+
+.table-content {
+    width: 60%;
+}
+
+.table-action {
+    width: 30%;
+}
